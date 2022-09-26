@@ -3,6 +3,8 @@ Discover your gamepads mappings instantly.
 
 Stop looking for your gamepad Unity mapping around the web, discover it directly into Unity.
 
+[Get the Unity package](https://github.com/kevincastejon/Unity-GamepadMappingDiscovery/releases/latest)
+
 ## How to use
 - 1 . Enters PlayMode
 - 2 . Use the menu **Tools > Gamepad Mapping Discovery**
