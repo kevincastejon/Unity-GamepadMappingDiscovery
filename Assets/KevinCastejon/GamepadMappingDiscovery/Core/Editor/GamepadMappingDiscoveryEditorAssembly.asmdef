@@ -1,7 +1,9 @@
 {
     "name": "GamepadMappingDiscoveryEditorAssembly",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:91f96640afe61f940bd76381576ef6fe"
+    ],
     "includePlatforms": [
         "Editor"
     ],
