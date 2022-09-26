@@ -1,5 +1,3 @@
-theme: minima
-
 # Gamepad Mapping Discovery
 Discover your gamepads mappings instantly.
 
