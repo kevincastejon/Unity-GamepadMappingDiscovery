@@ -19,7 +19,7 @@ namespace KevinCastejon.GamepadMappingDiscovery
         private bool _axesFoldout = true;
         private bool _buttonsFoldout = true;
 
-        [MenuItem("Window/Gamepad Mapping Discovery")]
+        [MenuItem("Tools/Gamepad Mapping Discovery")]
         internal static void Init()
         {
             SetInputManager();
@@ -27,7 +27,7 @@ namespace KevinCastejon.GamepadMappingDiscovery
             Selection.activeObject = discoverer;
             EditorApplication.ExecuteMenuItem("Window/General/Game");
         }
-        [MenuItem("Window/Gamepad Mapping Discovery", true)]
+        [MenuItem("Tools/Gamepad Mapping Discovery", true)]
         internal static bool InitValidation()
         {
             return EditorApplication.isPlaying;
